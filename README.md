@@ -1,1 +1,2 @@
-# M-sMates
+# Más Mates
+## [Examen diagnóstico de aritmética](DHM.html)
