@@ -1,2 +1,2 @@
 # Más Mates
-## [Examen diagnóstico de aritmética](DHM.html)
+## [¿Dónde hay más? (1)](DHM.html)
